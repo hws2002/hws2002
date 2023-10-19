@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hws2002?theme=unicorn&font=PT%20Sans&ext=heatmap)
-<!--
-**hws2002/hws2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🪖 2023.12.04 ~ 2025.09.04
+- 🌱 I’m currently learning : machine learning
+- 🔭 I’m currently working on : Tada(Startup)
+- 📫 How to reach me: hwooseok123@gmail.com or hanys21@mails.tsinghua.edu.cn
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
