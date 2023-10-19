@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Leetcode Stats]([https://leetcode.card.workers.dev/hws2002?theme=dark&font=baloo&extension=activity](https://leetcode.card.workers.dev/hws2002?theme=dark&font=baloo&extension=activity))
+
 <!--
 **hws2002/hws2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
