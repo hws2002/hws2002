@@ -2,7 +2,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hws2002?theme=unicorn&font=PT%20Sans&ext=heatmap)
 
-- 🪖 2023.12.04 ~ 2025.09.04
+- 🪖🛩️ 2023.12.04 ~ 2025.09.04 (ROKAF)
 - 🌱 I’m currently learning : machine learning
 - 🔭 I’m currently working on : Tada(Startup)
 - 📫 How to reach me: hwooseok123@gmail.com or hanys21@mails.tsinghua.edu.cn
