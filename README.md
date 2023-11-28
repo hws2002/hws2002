@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on : Tada(Startup)
 - 📫 How to reach me : hwooseok123@gmail.com or hanys21@mails.tsinghua.edu.cn.
 - 💬 Language Skills : Korean(native), Chinese(fluent), English(fluent)
-- [Linkedin](www.linkedin.com/in/wooseok-han-487baa27b)
+- Linkedin : www.linkedin.com/in/wooseok-han-487baa27b
 <!--
 Here are some ideas to get you started:
 
