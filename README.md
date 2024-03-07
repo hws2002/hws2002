@@ -4,7 +4,6 @@
 
 - 🪖🛩️ 2023.12.04 ~ 2025.09.04 (ROKAF)
 - 🌱 I’m currently learning and interested in : Machine Learning, Computer Vision, LLM, and any other AI-related stuffs
-- 🔭 I’m currently working on : Tada(Startup)
 - 📫 How to reach me : hwooseok123@gmail.com or hanys21@mails.tsinghua.edu.cn.
 - 💬 Language Skills : Korean(native), Chinese(fluent), English(fluent)
 - Linkedin : www.linkedin.com/in/wooseok-han-487baa27b
