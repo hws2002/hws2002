@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hws2002?theme=unicorn&font=PT%20Sans&ext=heatmap)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hanys21)](https://solved.ac/hanys21)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanys21)](https://solved.ac/hanys21/)
 
 - 🪖🛩️ 2023.12.04 ~ 2025.09.04 (ROKAF)
 - 🌱 I’m currently learning and interested in : Machine Learning, Computer Vision, LLM, and any other AI-related stuffs
